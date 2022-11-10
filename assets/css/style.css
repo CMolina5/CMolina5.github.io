@@ -1,0 +1,46 @@
+.masthead {
+  background-image: url("../../assets/img/Landing%20Page%20Landscape.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.intro-body {
+  background-attachment: fixed;
+}
+
+#viewskills {
+  background-image: url("../../assets/img/kindpng_119002.png");
+  background-size: 80%;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+#contact button {
+  width: 165px;
+}
+
+@media (min-width:768px) {
+  .masthead .intro-body .brand-heading {
+    font-size: 100px;
+    margin-bottom: 0px;
+    font-family: Montserrat, sans-serif;
+  }
+}
+
+#name {
+  margin-top: 500px;
+}
+
+#particles-js {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../assets/img/kindpng_119002.png");
+  background-position: center;
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
